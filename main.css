@@ -1,0 +1,52 @@
+#myElement {
+    /* c:# */
+    color: #000;
+    /* c:#f4 */
+    color: #f4f4f4;
+    /* top:100 */
+    top: 100px;
+   /* top:50p */
+top: 50%;
+
+/* fl:l */
+float: left;
+float: right;
+float: none;
+clear: right;
+clear: left;
+/* d:b */
+display: block;
+/* m:10 */
+margin: 10px;
+/* mb:10 */
+margin-bottom: 10px;
+/* mr:10 */
+margin-right: 10px;
+padding-bottom: 20px;
+/* w:100 */
+width: 100px;
+/* h:100 */
+height: 100px;
+
+/* list:n */
+list-style-type: none;
+
+list-style-type: circle;
+list-style-type: square;
+
+/* ta:l */
+text-align: left;
+
+/* td:n */
+text-decoration: none;
+
+/* ff */
+font-family: auto;
+
+/* fw:b */
+font-weight: bold;
+/* fs:i */
+font-style: italic;
+
+
+}
